@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/laser-blast-descend_gy7c5deo.mp3-f83d28caada2d572d458bcdf2c7d7bbe.mp3str"
+
+[deps]
+
+source_file="res://Content/laser-blast-descend_gy7c5deo.mp3"
+dest_files=[ "res://.import/laser-blast-descend_gy7c5deo.mp3-f83d28caada2d572d458bcdf2c7d7bbe.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
